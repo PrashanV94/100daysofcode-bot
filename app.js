@@ -5,7 +5,7 @@ const T = new Twitter(config);
 // Set up your count and search parameters
 const params = {
   q: '#WhistlePodu',
-  count: 25,
+  count: 10,
   result_type: 'recent',
   lang: 'en'
 }
